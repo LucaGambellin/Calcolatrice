@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calcolatrice</string>
+
+    <string name="numberZero">0</string>
+    <string name="numberOne">1</string>
+    <string name="numberTwo">2</string>
+    <string name="numberThree">3</string>
+    <string name="numberFour">4</string>
+    <string name="numberFive">5</string>
+    <string name="numberSix">6</string>
+    <string name="numberSeven">7</string>
+    <string name="numberEight">8</string>
+    <string name="numberNine">9</string>
+    <string name="più">+</string>
+    <string name="meno">-</string>
+    <string name="per">x</string>
+    <string name="diviso">÷</string>
+    <string name="piuMeno">+/-</string>
+    <string name="uguale">=</string>
+    <string name="esponente">^</string>
+    <string name="parentesiAperta">(</string>
+    <string name="parentesiChiusa">)</string>
+    <string name="punto">.</string>
+    <string name="cancella">CANC</string>
+    <string name="scritta">Enter a value</string>
+
+
+</resources>
